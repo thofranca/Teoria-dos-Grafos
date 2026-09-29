@@ -12,6 +12,11 @@ Prim:
 
 python mst.py --input [ARQUIVO.txt] --alg prim --start [VERTICE]
 
+- Existem três arquivos para testes dentro do .zip:
+  - grafo1.txt
+  - grafo2_empates.txt
+  - grafo3_desconexo.txt
+
 ## OBS
 
 Foi utilizado auxilio de IA para implementar o argparse e em algumas verificações de robustez do código.
